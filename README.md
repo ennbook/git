@@ -5,4 +5,7 @@ Practice Git in real-time instead of learning through articles and video courses
 
 https://docs.google.com/spreadsheets/d/1SuPLuMJSSZsFm-iac5tZxTvsVLKhM1tVdP01dJhOTV8/edit?usp=sharing
 
+#clone using 
+git clone https://github.com/ennbook/git.git
+
   
